@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "isActive": true,
+    "balance": 2450.75,
+    "nombre": "María García",
+    "genero": "female",
+    "email": "maria@email.com"
+  },
+
+  {
+    "id": "2",
+    "isActive": false,
+    "balance": 1800.5,
+    "nombre": "Carlos López",
+    "genero": "male",
+    "email": "carlos@email.com"
+  },
+  {
+    "id": "3",
+    "isActive": true,
+    "balance": 3200.0,
+    "nombre": "María Rodríguez",
+    "genero": "female",
+    "email": "maria@email.com"
+  },
+  {
+    "id": "4",
+    "isActive": true,
+    "balance": 1800.25,
+    "nombre": "Juan Pérez",
+    "genero": "male",
+    "email": "juan@email.com"
+  },
+  {
+    "id": "5",
+    "isActive": false,
+    "balance": 4200.8,
+    "nombre": "Laura Martínez",
+    "genero": "female",
+    "email": "laura@email.com"
+  },
+  {
+    "id": "6",
+    "isActive": true,
+    "balance": 2900.6,
+    "nombre": "Pedro Sánchez",
+    "genero": "male",
+    "email": "pedro@email.com"
+  },
+  {
+    "id": "7",
+    "isActive": true,
+    "balance": 3500.45,
+    "nombre": "Sofía Hernández",
+    "genero": "female",
+    "email": "sofia@email.com"
+  }
+]

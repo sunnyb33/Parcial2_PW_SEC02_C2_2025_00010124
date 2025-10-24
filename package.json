@@ -1,0 +1,24 @@
+{
+  "name": "parcial2_pw_sec02_c2_2025_00010124",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyb33/Parcial2_PW_SEC02_C2_2025_00010124.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sunnyb33/Parcial2_PW_SEC02_C2_2025_00010124/issues"
+  },
+  "homepage": "https://github.com/sunnyb33/Parcial2_PW_SEC02_C2_2025_00010124#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
